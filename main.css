@@ -1,0 +1,41 @@
+body {
+  background-color: purple;
+
+  margin: 90px;
+  padding: 0;
+  text-align: center;
+}
+
+.header {
+  background-image: url("BGDoggo.jpg");
+  color: #030303;
+  background-repeat: repeat;
+  padding: 15px;
+  font-style: oblique;
+  font-size: 20px;
+}
+
+/*Draw out on paper. Hard to visualise without e.e
+-- Look at coding resources. Compile folder of pics for webpage.
+-- More musically themes site?  Music, werewolves, and sirens.
+-- CSSTricks */
+
+.content {
+  background-color: #030303;
+  color: #eeeeee;
+  padding: 15px;
+  border: 20px;
+}
+
+.thumbnail {
+  border: 20px;
+  border-color: purple;
+
+
+}
+
+p {
+  margin: 15px;
+  font-style: Garamond;
+  font-size: 20px;
+}
